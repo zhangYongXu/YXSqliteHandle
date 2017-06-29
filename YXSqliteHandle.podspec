@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
 
   
   s.name         = "YXSqliteHandle"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "iOS这是一个基于FMDB的数据库操作封装库"
 
   s.description  = <<-DESC
